@@ -1,5 +1,8 @@
 # RandomTrendify
 
+![image](https://github.com/alexkat/RandomTrendify/assets/2880176/eddce4c1-26b7-43e5-8072-621b0ade4801)
+
+
 ## A Sophisticated Approach to Fair and Exciting Random Selections
 
 RandomTrendify is an advanced tool designed to bring fairness and excitement to digital contests and simulations. By simulating market trends and applying these dynamics to the selection process, RandomTrendify offers a novel solution to balance engagement with equitable chances for all participants.
