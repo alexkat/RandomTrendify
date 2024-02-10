@@ -188,7 +188,7 @@ wxIMPLEMENT_APP(MyApp);
 
 bool MyApp::OnInit()
 {
-    MyFrame *frame = new MyFrame("Galxe Winners generator");
+    MyFrame *frame = new MyFrame("RandomTrendify");
     frame->Show(true);
     return true;
 }
